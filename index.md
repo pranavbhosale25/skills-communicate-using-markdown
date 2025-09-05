@@ -2,3 +2,6 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```
+log.info("Printing a test log");
+```
